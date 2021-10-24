@@ -1,0 +1,9 @@
+{
+  "name": "zemakech-backend",
+  "version": "1.0.0",
+  "description": "backend for the zemakech website",
+  "main": "main.js",
+  "author": "Kelechi Nwa-uwa",
+  "license": "MIT",
+  "private": true
+}
