@@ -2,8 +2,12 @@
   "name": "zemakech-backend",
   "version": "1.0.0",
   "description": "backend for the zemakech website",
-  "main": "main.js",
+  "main": "server.js",
   "author": "Kelechi Nwa-uwa",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "repository": "https://github.com/theAvocadoCoder/zemakech-backend.git",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
